@@ -274,5 +274,5 @@ Puedes encontrar recursos de apoyo dentro de las unidades. Para facilitar la lec
 
 - Visita: https://datos.gob.es/
 - Suscríbete a nuestro boletín: http://bit.ly/2IY8JgV
-- Contacto: contacto@datos.gob.es
+- Contacto: [comunicar sugerencias, mejoras o incidencias en la plataforma de datos.gob.es](https://datos.gob.es/es/form/contact)
 
