@@ -8,7 +8,7 @@ narrator: Spanish Female
 comment:  Unidad 00 - **Materiales formativos datos.gob.es (2026). Materiales formativos de la Iniciativa Aporta.
 -->
 
-# Unidad 00 - **Materiales formativos datos.gob.es (2026)
+# Unidad 00 - Materiales formativos datos.gob.es (2026)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/assets/img/logo_dge_normal.svg" alt="datos.gob.es" width="300">
@@ -107,4 +107,5 @@ Más información en [LICENSE](LICENSE).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/assets/img/logo_iniciativa-aporta.svg" alt="Iniciativa Aporta" width="200">
+
 </p>
