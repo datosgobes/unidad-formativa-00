@@ -123,7 +123,7 @@ Estas actividades solo están disponibles en la versión LiaScript. Accede a la 
 **Traducción**
 </div>
 
-Existe la posibilidad de visualizar el curso en otros idiomas, ya sea seleccionando una traducción disponible —si existe, aparecerá listada— o utilizando el servicio de traducción automática con un solo clic. 
+Existe la posibilidad de visualizar el curso en otros idiomas con un solo clic, ya sea seleccionando una traducción disponible —si existe, aparecerá listada— o utilizando el servicio de traducción automática. 
 
 <center>![Botón para traducir el contenido](media/tutorial_dge_translate.png "Figura. Botón para traducir el contenido")</center>
 
@@ -170,7 +170,7 @@ Este material se publica bajo la licencia **Creative Commons Attribution 4.0 Int
 
 <div class="masinfo_caja">
 	<div class="masinfo_titulo">
-		⚠️ Mas información
+		ℹ️ Mas información
 	</div>
 	<div class="masinfo_contenido">
 Para citar el uso de este contenido, debes incluir una referencia que indique claramente a **Red.es**, al **Ministerio para la Transformación Digital y de la Función Pública**, al proyecto datos.gob.es y la URL donde se aloja el material. 
