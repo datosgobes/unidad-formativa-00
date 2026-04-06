@@ -90,7 +90,6 @@ A continuación, se presentan los tipos de recursos que encontrarás en cada uni
 - 💡**Ejemplo**: casos concretos que facilitan la comprensión.
 - ⚠️ **Aviso**: consejo o dato práctico para entender lo presentado.
 - ℹ️ **Más información**: material de relevancia que complementa lo explicado.
-- 🔍 **Saber más**: referencias y documentos adicionales.
 - 🧪 **Caso de estudio**: casos reales para afianzar conocimientos.
 - ✏️ **Ejercicio**: actividades para aplicar los conocimientos adquiridos.
 
