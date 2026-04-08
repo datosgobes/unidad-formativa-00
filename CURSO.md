@@ -45,19 +45,20 @@ Las unidades formativas de datos.gob.es tienen como propósito principal fomenta
 -	Impulsar la reutilización de datos abiertos para generar valor económico, social y administrativo.
 -	Ofrecer herramientas y conocimientos técnicos, normativos y estratégicos relacionados con los datos abiertos y adaptados a distintos perfiles profesionales.
 
-<div class="aviso_caja">
-	<div class="aviso_titulo">
-		⚠️ Aviso
-	</div>
-	<div class="aviso_contenido">
-Con esta unidad se comienza la nueva serie de unidades formativa de datos.gob.es.
-
-Hoy publicamos la Unidad 1, y poco a poco iremos liberando el resto de los contenidos de forma progresiva.
-
 Nuestro objetivo es que podáis avanzar paso a paso, consolidando conocimientos mientras seguimos construyendo esta experiencia formativa.
 
-  </div>
+<div class="concepto">
+	Unidades formativas disponibles
 </div>
+Con esta Unidad 00 se comienza la nueva serie de unidades formativas de datos.gob.es.
+
+Actualmente están disponibles las unidades siguientes:
+
+ -  <a href="https://github.com/datosgobes/materiales-formativos" target="_blank" rel="noopener">Unidad 01 - Datos abiertos: conceptos básicos y beneficios</a>
+
+Poco a poco iremos liberando el resto de los contenidos de forma progresiva.
+
+
 
 
 *************************************************************************************************************
@@ -104,7 +105,7 @@ Al finalizar cada sección, tendrás la oportunidad de responder preguntas para 
 		⚠️ Aviso
 	</div>
 	<div class="aviso_contenido">
-Estas actividades solo están disponibles en la versión LiaScript. Accede a la versión del material que permite la evaluación a través de este enlace
+Estas actividades solo están disponibles en la versión LiaScript.
   </div>
 </div>
 
@@ -122,7 +123,7 @@ Estas actividades solo están disponibles en la versión LiaScript. Accede a la 
 **Traducción**
 </div>
 
-Existe la posibilidad de visualizar el curso en otros idiomas con un solo clic, ya sea seleccionando una traducción disponible —si existe, aparecerá listada— o utilizando el servicio de traducción automática. 
+Existe la posibilidad de visualizar el curso en otros idiomas con un solo clic, seleccionando, en los enlaces de la parte superior derecha, el texto de la abreviatura del idioma actual y eligiendo el idioma de traducción.
 
 <center>![Botón para traducir el contenido](media/tutorial_dge_translate.png "Figura. Botón para traducir el contenido")</center>
 
@@ -150,9 +151,11 @@ El curso incorpora secciones con narración en audio. Puedes activar o desactiva
 
 {{|>}}
 *************************************************************************************************************
-Este curso está diseñado en <a href="https://liascript.github.io/" target="_blank" rel="noopener">LiaScript</a>. Para disfrutarlo con todas sus funcionalidades, accede a <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-00/refs/heads/main/CURSO.md" target="_blank" rel="noopener">este enlace</a>.
 
-Para conocer más sobre el formato Markdown utilizado por LiaScript, consulta la <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md" target="_blank" rel="noopener">documentación oficial</a>.
+Para reutilizar el material de las unidades formativas, accede al código que está publicado en <a href="https://github.com/datosgobes/materiales-formativos" target="_blank" rel="noopener">este enlace</a>.
+
+Este curso está diseñado en <a href="https://liascript.github.io/" target="_blank" rel="noopener">LiaScript</a>. 
+Para conocer más sobre las especificaciones técnicas y funcionales utilizadas por LiaScript, consulta la <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md" target="_blank" rel="noopener">documentación oficial</a>.
 
 
 *************************************************************************************************************
@@ -175,7 +178,7 @@ Este material se publica bajo la licencia **Creative Commons Attribution 4.0 Int
 Para citar el uso de este contenido, debes incluir una referencia que indique claramente a **Red.es**, al **Ministerio para la Transformación Digital y de la Función Pública**, al proyecto datos.gob.es y la URL donde se aloja el material. 
 
 Una forma recomendada de hacerlo es:
-Red.es (Ministerio para la Transformación Digital y de la Función Pública). ***[Título de la unidad] [versión]*** Proyecto datos.gob.es. Disponible en: https://github.com/datosgobes. Licencia: CC BY 4.0.
+Red.es (Ministerio para la Transformación Digital y de la Función Pública). ***[Título de la unidad] [versión]*** Proyecto datos.gob.es. Disponible en: https://github.com/datosgobes Licencia: CC BY 4.0.
 
   </div>
 </div>
