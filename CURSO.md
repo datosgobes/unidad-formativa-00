@@ -1,9 +1,8 @@
-
 <!--
 module_id: unidad-formativa-00
 author: Equipo gestor de la plataforma datos.gob.es
 email: contacto@datos.gob.es
-date: 26/01/2026
+date: 09/04/2026
 version: 0.1.0.0
 language: es
 narrator: Spanish Female
@@ -16,16 +15,14 @@ edit: true
 
 repository: https://github.com/datosgobes/unidad-formativa-00
 
-logo:     https://cdn.jsdelivr.net/gh/datosgobes/materiales-formativos@main/assets/img/logo_dge_square.svg
+logo:     https://cdn.jsdelivr.net/gh/datosgobes/unidad-formativa-00@main/assets/img/logo_dge_square.svg
 
-icon:     https://cdn.jsdelivr.net/gh/datosgobes/materiales-formativos@main/assets/img/logo_conjunto.png
+icon:     https://cdn.jsdelivr.net/gh/datosgobes/unidad-formativa-00@main/assets/img/logo_conjunto.png
 
 dark:   false
 
-script: https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
-
 link: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap
-      https://raw.githack.com/datosgobes/materiales-formativos/refs/heads/main/assets/css/dge-styles.css
+      https://raw.githack.com/datosgobes/unidad-formativa-00/refs/heads/main/assets/css/dge-styles.css
 
 font: Montserrat
 
@@ -54,7 +51,7 @@ Con esta Unidad 00 se comienza la nueva serie de unidades formativas de datos.go
 
 Actualmente están disponibles las unidades siguientes:
 
- -  <a href="https://github.com/datosgobes/materiales-formativos" target="_blank" rel="noopener">Unidad 01 - Datos abiertos: conceptos básicos y beneficios</a>
+ -  <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md#1" target="_blank" rel="noopener">Unidad 01 - Datos abiertos: conceptos básicos y beneficios</a>
 
 Poco a poco iremos liberando el resto de los contenidos de forma progresiva.
 
@@ -64,12 +61,12 @@ Poco a poco iremos liberando el resto de los contenidos de forma progresiva.
 *************************************************************************************************************
 
 
-## Cómo usar la unidad
+## Cómo usar las unidades
 
 {{|>}}
 *************************************************************************************************************
 
-
+A continuación se presentan los elementos comunes de las unidades formativas.
 
 <div class="concepto">
 **Navegación**
@@ -119,6 +116,8 @@ Estas actividades solo están disponibles en la versión LiaScript.
 {{|>}}
 *************************************************************************************************************
 
+A continuación se presentan otras funcionalidades complementarias comunes de las unidades formativas.
+
 <div class="concepto">
 **Traducción**
 </div>
@@ -152,9 +151,9 @@ El curso incorpora secciones con narración en audio. Puedes activar o desactiva
 {{|>}}
 *************************************************************************************************************
 
-Para reutilizar el material de las unidades formativas, accede al código que está publicado en <a href="https://github.com/datosgobes/materiales-formativos" target="_blank" rel="noopener">este enlace</a>.
+Para reutilizar el material de las unidades formativas, accede al código que está publicado en <a href="https://github.com/datosgobes/unidad-formativa-00" target="_blank" rel="noopener">este enlace</a>.
 
-Este curso está diseñado en <a href="https://liascript.github.io/" target="_blank" rel="noopener">LiaScript</a>. 
+Este curso está diseñado para usar con <a href="https://liascript.github.io/" target="_blank" rel="noopener">LiaScript</a>. 
 Para conocer más sobre las especificaciones técnicas y funcionales utilizadas por LiaScript, consulta la <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md" target="_blank" rel="noopener">documentación oficial</a>.
 
 
