@@ -45,10 +45,14 @@ Esta unidad formativa aborda:
 
 Actualmente están disponibles las unidades siguientes:
 
- - <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-00/refs/heads/main/CURSO.md#1" target="_blank" rel="noopener">Unidad 00 - Materiales formativos datos.gob.es (2026)</a>
- - <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md#1" target="_blank" rel="noopener">Unidad 01 - Datos abiertos: conceptos básicos y beneficios</a>
 
-Poco a poco iremos liberando el resto de los contenidos de forma progresiva.
+| Unidad formativa | Curso interactivo | Código |
+|---------|-------------|--------|
+| **Unidad 00 - Materiales formativos datos.gob.es (2026)** | [Ver en LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-00/refs/heads/main/CURSO.md#1)  | [Ver en Github](https://github.com/datosgobes/unidad-formativa-00) |
+| **Unidad 01 - Datos abiertos: conceptos básicos y beneficios** | [Ver en LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md#1)  | [Ver en Github](https://github.com/datosgobes/unidad-formativa-01) |
+
+
+Poco a poco iremos liberando otros contenidos de forma progresiva.
 
 
 ## ¿Cómo usar estos materiales?
@@ -82,14 +86,14 @@ Para reutilizar y editar los materiales formativos es necesario desacargarlos pr
 
 Para editar el material se puede hacer de diversas maneras, que se presentan a continuación.
 
-#####  LiveEditor (desarrollo on line)
+#####  **METODO 1. LiveEditor (desarrollo on line)**
 
 1. Abre [LiveEditor](https://liascript.github.io/liveeditor/) pasando la unidad. Ej: [Unidad 01](https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md)
 2. Modifica el contenido en el editor y clicka en *parse* para ver el resultado.
 3. Descarga el contenido
 
 
-#####  IDE, editor de código fuente ligero (desarrollo local)
+#####  **METODO 2. IDE, editor de código fuente ligero (desarrollo local)**
 
 Como muestra se indica el uso del IDE Visual Studio Code (VS Code).
 
@@ -97,7 +101,7 @@ Como muestra se indica el uso del IDE Visual Studio Code (VS Code).
 2. Instalar las extensiones LiasCript para VS Code siguiendo las instrucciones [las instrucciones](https://liascript.github.io/vscode/)
 
 
-##### LiaScript DevServer (desarrollo local)
+##### **METODO 3. LiaScript DevServer (desarrollo local)**
 
 Requisitos previos:
 
@@ -128,7 +132,7 @@ liascript-devserver --input .\CURSO.md --live -o
 ```
 
 >[!TIP]
-> Para modificar el CSS en local, puedes modificar en las opciones de configuracion (inicio del Markdown) `link: https://cdn.jsdelivr.net/gh/datosgobes/materiales-formativos@main/assets/css/dge-styles.css` por una hoja CSS situada en el mismo directorio que el document, ej `./dge-styles.css`
+> Para modificar el CSS en local, puedes modificar en las opciones de configuracion (inicio del Markdown) `link: https://raw.githack.com/datosgobes/unidad-formativa-00/refs/heads/main/assets/css/dge-styles.css` por una hoja CSS situada en el mismo directorio que el documento, ej `./dge-styles.css`
 
 
 Salida esperada (ejemplo):

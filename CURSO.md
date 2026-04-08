@@ -35,12 +35,12 @@ attribute: Iniciativa de datos abiertos del Gobierno de España [CC BY 4.0](http
 {{|>}}
 *************************************************************************************************************
 
-Las unidades formativas de datos.gob.es tienen como propósito principal fomentar el conocimiento, la capacitación y el uso efectivo de los datos abiertos en el ámbito público y privado. Estas unidades buscan:
+Las **unidades formativas de datos.gob.es** tienen como propósito principal fomentar el conocimiento, la capacitación y el uso efectivo de los datos abiertos en el ámbito público y privado. Estas unidades buscan:
 
--	Concienciar sobre la importancia de los datos abiertos y su utilidad práctica.
--	Promover la publicación de datos abiertos de calidad, accesibles y reutilizables.
--	Impulsar la reutilización de datos abiertos para generar valor económico, social y administrativo.
--	Ofrecer herramientas y conocimientos técnicos, normativos y estratégicos relacionados con los datos abiertos y adaptados a distintos perfiles profesionales.
+-	Concienciar sobre la **importancia de los datos abiertos y su utilidad** práctica.
+-	**Promover la publicación** de datos abiertos de calidad, accesibles y reutilizables.
+-	**Impulsar la reutilización** de datos abiertos para generar valor económico, social y administrativo.
+-	Ofrecer **herramientas y conocimientos técnicos, normativos y estratégicos** relacionados con los datos abiertos y adaptados a distintos perfiles profesionales.
 
 Nuestro objetivo es que podáis avanzar paso a paso, consolidando conocimientos mientras seguimos construyendo esta experiencia formativa.
 
@@ -51,9 +51,13 @@ Con esta Unidad 00 se comienza la nueva serie de unidades formativas de datos.go
 
 Actualmente están disponibles las unidades siguientes:
 
- -  <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md#1" target="_blank" rel="noopener">Unidad 01 - Datos abiertos: conceptos básicos y beneficios</a>
+| Unidad formativa | Curso interactivo | Código |
+|---------|-------------|--------|
+| **Unidad 00 - Materiales formativos datos.gob.es (2026)** | [Ver en LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-00/refs/heads/main/CURSO.md#1)  | [Ver en Github](https://github.com/datosgobes/unidad-formativa-00) |
+| **Unidad 01 - Datos abiertos: conceptos básicos y beneficios** | [Ver en LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md#1)  | [Ver en Github](https://github.com/datosgobes/unidad-formativa-01) |
 
-Poco a poco iremos liberando el resto de los contenidos de forma progresiva.
+
+Poco a poco iremos liberando otros contenidos de forma progresiva.
 
 
 
@@ -151,7 +155,7 @@ El curso incorpora secciones con narración en audio. Puedes activar o desactiva
 {{|>}}
 *************************************************************************************************************
 
-Para reutilizar el material de las unidades formativas, accede al código que está publicado en <a href="https://github.com/datosgobes/unidad-formativa-00" target="_blank" rel="noopener">este enlace</a>.
+Para reutilizar el material de las unidades formativas, accede al código que está publicado en <a href="https://github.com/datosgobes/unidad-formativa-00" target="_blank" rel="noopener">el repositorio Github</a>.
 
 Este curso está diseñado para usar con <a href="https://liascript.github.io/" target="_blank" rel="noopener">LiaScript</a>. 
 Para conocer más sobre las especificaciones técnicas y funcionales utilizadas por LiaScript, consulta la <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md" target="_blank" rel="noopener">documentación oficial</a>.
